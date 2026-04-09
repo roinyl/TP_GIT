@@ -9,4 +9,4 @@ Nous nous engageons à faire de ce projet un espace accueillant pour tous.
 - Se concentrer sur ce qui est meilleur pour le projet
 
 ## Application
-Tout comportement abusif peut être signalé en ouvrant une issue.
+Tout comportement abusif peut être signalé en ouvrant une issue.## Notes
