@@ -2,4 +2,4 @@ const hello = () => {
   console.log('Hello World')
 }
 
-hello()
+hello()// eslint configured
