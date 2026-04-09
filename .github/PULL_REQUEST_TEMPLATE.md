@@ -12,4 +12,4 @@ Closes #...
 
 ## Checklist
 - [ ] Le linter passe sans erreur
-- [ ] La PR pointe vers `develop`
+- [ ] La PR pointe vers `develop`## Notes
