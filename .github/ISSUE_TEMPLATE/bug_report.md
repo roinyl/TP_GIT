@@ -14,4 +14,4 @@ labels: bug
 
 ## Environnement
 - OS:
-- Version Node:
+- Version Node:## Additional info

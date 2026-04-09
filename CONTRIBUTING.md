@@ -15,4 +15,4 @@ Ce projet suit le **Git Flow** :
 - `chore:` maintenance
 
 ## Linter
-Le hook pre-commit lance automatiquement ESLint avant chaque commit.
+Le hook pre-commit lance automatiquement ESLint avant chaque commit.## Notes
