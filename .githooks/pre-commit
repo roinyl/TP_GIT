@@ -5,4 +5,4 @@ if [ $? -ne 0 ]; then
   echo "Linter echoue. Commit annule."
   exit 1
 fi
-echo "Linter OK - Commit autorise"
+echo "Linter OK - Commit autorise"# hook configured
